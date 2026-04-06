@@ -1,0 +1,10 @@
+Respond to customer query: I want a refund for order ORD4031, the item arrived damaged.
+Respond to customer query: My product didn't work, need refund for order ORD1811.
+Respond to customer query: Please process refund for order ORD2733.
+Respond to customer query: I want a refund for order ORD8085, the item arrived damaged.
+Respond to customer query: My product didn't work, need refund for order ORD6241.
+Respond to customer query: I want a refund for order ORD3328, the item arrived damaged.
+Respond to customer query: Please process refund for order ORD3386.
+Respond to customer query: I want a refund for order ORD7607, the item arrived damaged.
+Respond to customer query: My product didn't work, need refund for order ORD2779.
+Respond to customer query: I want a refund for order ORD3732, the item arrived damaged.
